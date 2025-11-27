@@ -1,3 +1,5 @@
+await this.githubService.getUserBio();
+
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">Estudante de Desenvolvimento de Sistemas AMS</h3>
 
